@@ -1,5 +1,3 @@
-# MyCV
-
 # My CV Website
 
 Welcome to my personal CV website! This project showcases my professional experience, skills, and achievements. 
