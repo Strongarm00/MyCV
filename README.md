@@ -16,8 +16,6 @@ You can view the live version of the website at [armstrong-industries.net](https
 
 - HTML
 - CSS
-- JavaScript (if applicable)
-- [Any frameworks or libraries used]
 
 ## Getting Started
 
